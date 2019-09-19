@@ -609,7 +609,7 @@ Use the Bootstrap grid system and its [`.row-cols` classes]({{< docsref "/layout
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -618,7 +618,7 @@ Use the Bootstrap grid system and its [`.row-cols` classes]({{< docsref "/layout
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -627,7 +627,7 @@ Use the Bootstrap grid system and its [`.row-cols` classes]({{< docsref "/layout
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -636,7 +636,7 @@ Use the Bootstrap grid system and its [`.row-cols` classes]({{< docsref "/layout
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -652,7 +652,7 @@ Change it to `.row-cols-3` and you'll see the fourth card wrap.
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -661,7 +661,7 @@ Change it to `.row-cols-3` and you'll see the fourth card wrap.
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -670,7 +670,7 @@ Change it to `.row-cols-3` and you'll see the fourth card wrap.
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -679,7 +679,7 @@ Change it to `.row-cols-3` and you'll see the fourth card wrap.
   </div>
   <div class="col mb-4">
     <div class="card">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -695,7 +695,7 @@ When you need equal height, add `.h-100` to the cards.
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
     <div class="card h-100">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -704,7 +704,7 @@ When you need equal height, add `.h-100` to the cards.
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a short card.</p>
@@ -713,7 +713,7 @@ When you need equal height, add `.h-100` to the cards.
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -722,7 +722,7 @@ When you need equal height, add `.h-100` to the cards.
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      {{< placeholder width="100%" height="140" class="card-img-top" text="Image cap" >}}
+      {{< placeholder width="100%" height="180" class="card-img-top" text="Image cap" >}}
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
